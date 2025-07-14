@@ -1,6 +1,6 @@
 # How-to-Pick-a-Thermal-Monocular-
 
-![Image}(https://avatars.mds.yandex.net/i?id=03ec67dfff6630634186c132060ae54b9fb88db0-5236471-images-thumbs&n=13)
+![Image](https://avatars.mds.yandex.net/i?id=03ec67dfff6630634186c132060ae54b9fb88db0-5236471-images-thumbs&n=13)
 
 [**Thermal monoculars**](https://www.guideoutdoor.com/product/thermal-monoculars/td-gen3-lrf-series/td633l) are now an essential device for most uses, from camping and wildlife observation to security monitoring and search and rescue operations. These devices detect infrared radiation emitted by objects and render it into a visual image, which users can see through in low or no light conditions. But with many thermal imaging monoculars out there, it is not a straightforward choice to make. The guide below is intended to help you make the right choice by looking at the most critical considerations to include when making your selection.​
 
